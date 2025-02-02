@@ -1,0 +1,53 @@
+Day 1: Networking Fundamentals + Security - #90DaysOfDevOps2025 🚀
+
+Introduction
+Welcome to **Day 1** of my **#90DaysOfDevOps** journey! Today, I focused on **Networking Fundamentals**, a critical skill for DevOps engineers. Understanding networking helps manage cloud environments, troubleshoot issues, and ensure secure communication between services.
+
+---
+
+🌐 **Networking Basics**
+OSI & TCP/IP Models
+Networking follows structured communication models:
+
+- **OSI Model (7 Layers):** Application, Presentation, Session, Transport, Network, Data Link, Physical.
+- **TCP/IP Model (4 Layers):** Application, Transport, Internet, Network Interface.
+
+IP Addressing & Subnetting
+- **IPv4 & IPv6** – Unique device identifiers.
+- **Subnetting** – Dividing networks for efficiency.
+- **CIDR Notation** – Defines network ranges (e.g., `192.168.1.0/24`).
+
+Common Networking Concepts
+- **DNS** – Resolves domain names to IP addresses.
+- **DHCP** – Dynamically assigns IP addresses.
+- **Ports & Protocols** – Defines communication rules (e.g., HTTP: `80`, HTTPS: `443`).
+
+---
+
+🔒 **Networking Security**
+Security is crucial in DevOps:
+
+- **Firewalls & Security Groups** – Controls traffic flow.
+- **VPN & Encryption** – Secures remote access and data.
+- **IAM & Zero Trust** – Manages user permissions and authentication.
+
+---
+
+🛠 **Hands-on Practice**
+- ✅ Used `ping` & `traceroute` to analyze network paths.
+- ✅ Checked open ports with `netstat`.
+- ✅ Configured AWS Security Groups.
+- ✅ Set up an Nginx web server.
+
+---
+
+🚀 **Key Takeaways**
+✔️ Networking is the **backbone** of DevOps.  
+✔️ Security ensures safe communication.  
+✔️ Next Up: Linux & Shell Scripting! 🐧
+
+---
+
+📌 **Resources**
+- [AWS Networking Overview](https://aws.amazon.com/networking/)
+- [OSI Model Explained](https://www.cloudflare.com/learning/network-layer/what-is-the-osi-model/)
